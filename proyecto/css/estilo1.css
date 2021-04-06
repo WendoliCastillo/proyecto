@@ -1,7 +1,7 @@
 body{
 	
 	color: purple;
-	background-color: #fa8072;
+	background-color: #ee82ee;
 }
 ul.navbar{
 	width: 1000px;
@@ -40,19 +40,19 @@ address{
 }
 h1{
 	font-family: Hervetica;
-	color: #ffff50;
+	color: #2F4F4F;
 }
 h2{
-	color:#4735fa;
+	color:#000000;
 
 }
 h3{
 	color: #354884;
 }
 h6{
-	color: #d8bfd8;
+	color: #bc8f8f;
 }
 p{
-	color:#ffff50;
+	color:#2F4F4F;
 	text-align: center;
 }
